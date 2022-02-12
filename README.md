@@ -1,5 +1,8 @@
 # Arduino_UNO-PN532_I2C
 
+Qiitaに詳細を記載しています。  
+https://qiita.com/kitazaki/items/12ea85c6d73232be5112  
+
 for Arduino UNO  
 use I2C (SDA, SCL)  
 https://github.com/kitazaki/Arduino_UNO-PN532_I2C/blob/main/UNO_FeliCa_card_read_I2C_01.ino  
