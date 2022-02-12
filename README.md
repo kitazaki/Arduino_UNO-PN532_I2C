@@ -13,9 +13,9 @@ USB Micro Bコネクタが取れやすいので、裏面でブレッドボード
           VCC(右から4番目)  
 12345678901234  
 OOOOOOOOOOOO  
-　　　　　　　|  
-　　　　　　　|→ USB Micro B  
-　　　　　　　|  
+　　　　　　　　|  
+　　　　　　　　|→ USB Micro B  
+　　　　　　　　|  
 OOOOOOOOOOOO  
 12345678901234  
       SCL(右から6番目)  
