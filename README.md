@@ -6,6 +6,8 @@ https://github.com/kitazaki/Arduino_UNO-PN532_I2C/blob/main/UNO_FeliCa_card_read
 
 
 for Pro Micro (Arduino Leonardo) 5V / 16MHz  
+https://github.com/kitazaki/Arduino_UNO-PN532_I2C/raw/main/Pro_Micro_PN532.jpg
+
 use I2C (SDA:PIN 2, SCL:PIN 3)  
 https://github.com/kitazaki/Arduino_UNO-PN532_I2C/blob/main/Pro_Micro_FeliCa_card_read_I2C_01.ino  
 
